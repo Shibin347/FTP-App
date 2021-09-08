@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396280534910",
+    "project_id": "ftpproject-e9244",
+    "storage_bucket": "ftpproject-e9244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396280534910:android:b1385cc6a15680e594052f",
+        "android_client_info": {
+          "package_name": "com.example.ftpproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396280534910-mq7art5ttmalbevk3vag1lf53qaf00i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTP0yh2Ur9e2qk3zX7pcZNsfXHH-c51I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396280534910-mq7art5ttmalbevk3vag1lf53qaf00i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
